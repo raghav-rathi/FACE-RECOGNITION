@@ -1,2 +1,2 @@
 # FACE-RECOGNITION
-project code on face recognition
+project code of face recognition
